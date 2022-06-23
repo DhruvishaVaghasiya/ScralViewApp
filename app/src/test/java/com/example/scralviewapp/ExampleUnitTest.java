@@ -1,4 +1,4 @@
-package com.example.seekbarapp;
+package com.example.scralviewapp;
 
 import org.junit.Test;
 
